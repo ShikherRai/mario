@@ -1,7 +1,50 @@
-This is a clone of Infinite Mario, written in JavaScript for web browsers using HTML5.
+# 🎮 Mario Game Clone (HTML, CSS, JavaScript & Canvas)
 
-A good demonstration of what can be accomplished with the Canvas and Audio elements.
+A nostalgic side-scrolling Mario clone built entirely with **HTML5 Canvas**, **JavaScript**, and **CSS** — no game engines, just pure code magic!  
+Enjoy classic jump-and-run gameplay, pixel art animations, and interactive enemies, all rendered directly in the browser.
 
-Background music currently does not work in any browser besides Firefox 4. I think. There were too many problems with other browsers.
+---
 
-Ported from the Java version by Notch (Markus Persson).
+## 🌟 Live Demo
+
+🔗 [Play the Game Now](https://shikherrrai.github.io/mario/)  
+🚀 Works best on modern desktop browsers (Chrome, Firefox, Edge)
+
+---
+
+## ✨ Features
+
+- 🎮 Smooth side-scrolling platform gameplay  
+- 🪙 Collectible coins and scoring system  
+- 🧱 Breakable bricks and ? boxes  
+- 🍄 Power-ups and player growth  
+- 🐢 Enemy AI and collision mechanics  
+- 🎨 Retro-style pixel graphics via Canvas  
+- 🎵 Audio effects for jumps, coins, and more  
+- 🔁 Replayable, responsive, and lightweight
+
+---
+
+## 📁 Project Structure
+
+mario/
+├── index.html # Main HTML file
+├── style.css # Game styling
+├── game.js # Core game logic
+├── assets/ # Sprites, sounds, backgrounds
+├── levels/ # Level data and config
+└── README.md
+
+🙌 Credits & Inspiration
+Inspired by Nintendo's Super Mario Bros
+
+Sprite and sound assets: OpenGameArt, Kenney.nl
+
+Sound editing: Audacity
+
+⭐ Like it?
+If you enjoyed this project:
+🌟 Star this repo
+🍴 Fork it
+📣 Share with friends!
+
